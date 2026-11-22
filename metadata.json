@@ -1,0 +1,6 @@
+{
+  "name": "ProofPocket",
+  "description": "An educational mobile-first prototype inspired by Primus zkTLS technology, demonstrating how users can prove specific facts without unnecessarily revealing private data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
